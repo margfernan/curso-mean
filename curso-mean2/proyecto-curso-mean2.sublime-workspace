@@ -1,0 +1,247 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/gitsources/sdm/v1420-ga1SP23a/loyal/loyal-extra/scripts/db/empty/sqlserver/mssqlserver-init-loyal-kpi.sql",
+			"settings":
+			{
+				"buffer_size": 13378,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "id                 BIGINT AUTO_INCREMENT,\t\nid_tipocomprobante BIGINT,\nid_puntoventa      BIGINT,\nfecha              DATETIME,\nid_cliente         BIGINT,\nid_moneda          BIGINT,\nid_vendedor        BIGINT,\nfootdesc1          DECIMAL(8, 2),\nfootdesc2          DECIMAL(8, 2),\nid_condventa       BIGINT,\nrazonsocial        VARCHAR(200),\nid_regiva          BIGINT,\ncuit               VARCHAR(15),\nletra              VARCHAR(1),\nnroiibb            VARCHAR(20),\ncodigoiibb         VARCHAR(50),\ncotizacion         DECIMAL(8,2),\nneto               DECIMAL(8,2),\nnogravado          DECIMAL(8,2),\nivainscript        DECIMAL(8,2),\notros              DECIMAL(8,2),\ntotal              DECIMAL(8,2),\nid_listaprecio     BIGINT,\nfechaentrega       DATETIME,\nid_transporte      BIGINT,\nmensaje            VARCHAR(200),\nnroremito          VARCHAR(100),\nfechavenc          DATETIME,\nactualizaStock     TINYINT DEFAULT '0',\nid_deposito        BIGINT,\nfechacontab        DATETIME,\nperioddecjurada    DATE,\nnrocaicae          VARCHAR(50),\nfechavenccaicae    DATETIME,\nid_provincia       BIGINT,\nfechaalta          DATETIME,\nfechaultmodif      DATETIME,\nid_ultusuario      BIGINT,",
+			"settings":
+			{
+				"buffer_size": 1158,
+				"line_ending": "Windows",
+				"name": "id                 BIGINT AUTO_INCREMENT,"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/cygwin64/home/Martin/curso/mean/www/curso-mean2"
+	],
+	"file_history":
+	[
+		"/C/cygwin64/home/Martin/curso/mean/www/curso-mean2/package.json",
+		"/C/cygwin64/home/Martin/curso/mean/www/curso-mean2/proyecto-curso-mean2.sublime-project",
+		"/C/gitsources/sdm/v1420-ga1SP23a/loyal/loyal-extra/scripts/db/empty/sqlserver/mssqlserver-ddl-loyal.sql"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/gitsources/sdm/v1420-ga1SP23a/loyal/loyal-extra/scripts/db/empty/sqlserver/mssqlserver-init-loyal-kpi.sql",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13378,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SQL/SQL.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1158,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								1158
+							]
+						],
+						"settings":
+						{
+							"auto_name": "id                 BIGINT AUTO_INCREMENT,",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 231.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "proyecto-curso-mean2.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 412.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
